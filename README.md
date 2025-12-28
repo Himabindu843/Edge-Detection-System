@@ -111,3 +111,5 @@ The system displays:
 * Integrate with **object detection systems**
 * Real-time edge detection using webcam
 
+!https://github.com/Himabindu843/Edge-Detection-System/blob/main/edge_detection_output.jpg
+
